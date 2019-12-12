@@ -8,10 +8,14 @@
     padding: 0;
 }
 
-
 body{
     width: 1680px;
+    background: #925F60;
+}
+.all{
+    width: 1680px;
     margin: 0 auto;
+    
 }
 
 .tag01{
@@ -35,7 +39,7 @@ body{
     display: inline-block;
     position: relative;
     left: 520px;
-    margin: 30px;
+    margin: 0px 20px 20px 20px;
 }
 .main p{
     color: #FFF;
@@ -72,8 +76,12 @@ body{
     margin-left: 70px;
 }
 
+.span{
+    border-bottom: 2px #FFF solid;
+}
+
 .sns{
-    position: relative;
+    position: absolute;
     left: 766px;
 }
 
