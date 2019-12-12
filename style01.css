@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1680px;
+    background: #925F60;
+}
+.all{
+    width: 1680px;
+    margin: 0 auto;
+    
+}
+
+.tag01{
+    background: #275878;
+    color: #FFF;
+    padding: 10px;
+}
+.main1{
+    background: #073459;
+}
+.main1 p{
+    color: #FFF;
+}
+
+
+
+.mainmain{
+        background: #174861;
+}
+.main{
+    display: inline-block;
+    position: relative;
+    left: 520px;
+    margin: 0px 20px 20px 20px;
+}
+.main p{
+    color: #FFF;
+}
+.main2{
+    display: inline-block;
+}
+
+.menu img{
+    border: 20px #174861 solid;
+}
+.menu{
+    display: inline-block;
+    width: 1000px;
+    position: relative;
+    top: 30px;
+    left: 470px;
+    margin: 0 auto 90px auto;
+}
+.tag03{
+    width: 360px;
+    display: inline-block;
+}
+
+
+
+.tab{
+    display: inline-block;
+    position: absolute;
+    left: 616px;
+}
+.tab p{
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.span{
+    border-bottom: 2px #FFF solid;
+}
+
+.sns{
+    position: absolute;
+    left: 766px;
+}
+
+.light{
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    background: #275878;
+}    
