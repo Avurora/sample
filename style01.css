@@ -47,10 +47,6 @@ body{
 .main2{
     display: inline-block;
 }
-
-.menu img{
-    border: 20px #174861 solid;
-}
 .menu{
     display: inline-block;
     width: 1000px;
@@ -90,4 +86,16 @@ body{
     font-size: 12px;
     padding: 10px;
     background: #275878;
-}    
+} 
+
+.graphic:hover{
+	transform: scale(1.1);	/*画像の拡大率*/
+	transition-duration: 0.3s;	/*変化に掛かる時間*/
+}
+
+.hover{
+    background:#285778;
+    display: inline-block;
+    height: 300px;
+    padding: 20px;
+}
